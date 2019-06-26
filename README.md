@@ -15,7 +15,9 @@ pip install -r requirements.txt
 ```
 
 Запуск сайта:
+```
 python manage.py runserver
+```
 
 ### Цель проекта
 
